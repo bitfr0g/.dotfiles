@@ -1,6 +1,6 @@
 /etc/X11/xorg.conf.d:
 - 00-keyboard.conf
-- 30-touchpad.conf
+- 90-touchpad.conf
 <br>
 
 ~/.config/i3:
@@ -18,6 +18,8 @@ Dependências:
 - xclip 
 - nitrogen 
 - picom
+- vundle
+- zsh / ohmyzsh (cypher theme)
     
 <br>
 
